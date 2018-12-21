@@ -1,0 +1,114 @@
+2018-12-04 18:08:03,147 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-04 18:08:03,240 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-04 18:08:03,315 INFO  [Log] Element Clicked - search 
+2018-12-04 18:09:03,664 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-04 18:09:05,837 INFO  [Log] Element Clicked - View/Edit 
+2018-12-04 18:09:05,912 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-04 18:09:05,987 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-04 18:09:06,062 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-04 18:09:06,165 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-04 18:09:06,379 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-04 18:09:06,455 INFO  [Log] Element Clicked - Cell Phone Number 
+2018-12-04 18:09:06,531 INFO  [Log] Text entered in Text Box-Cell Phone Area Code Text-111 
+2018-12-04 18:09:06,607 INFO  [Log] Text entered in Text Box-Cell Number Text-1111111 
+2018-12-04 18:09:06,693 INFO  [Log] Text entered in Text Box-Cell Extension Text-111 
+2018-12-04 18:09:06,762 INFO  [Log] Element Clicked - Home Phone Number 
+2018-12-04 18:09:06,807 INFO  [Log] Text entered in Text Box-Home Phone Area Code Text-111 
+2018-12-04 18:09:06,854 INFO  [Log] Text entered in Text Box-Home Number Text-1111111 
+2018-12-04 18:09:06,904 INFO  [Log] Text entered in Text Box-Home Extension Text-111 
+2018-12-04 18:09:06,976 INFO  [Log] Element Clicked - Worke Phone Number 
+2018-12-04 18:09:07,025 INFO  [Log] Text entered in Text Box-Work Phone Area Code Text-111 
+2018-12-04 18:09:07,077 INFO  [Log] Text entered in Text Box-Work Number Text-1111111 
+2018-12-04 18:09:07,133 INFO  [Log] Text entered in Text Box-Work Extension Text-111 
+2018-12-04 18:09:07,246 INFO  [Log] Text entered in Text Box-Recharge Code Text-0000117 
+2018-12-04 18:09:07,343 INFO  [Log] Text entered in Text Box-Job Title Text-Title 
+2018-12-04 18:09:07,470 INFO  [Log] Text entered in Text Box-Department Text-Department 
+2018-12-04 18:09:07,553 INFO  [Log] Text entered in Text Box-Employee Ref No. Text-999 
+2018-12-04 18:09:07,640 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-04 18:55:08,321 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-04 18:55:08,423 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-04 18:55:08,506 INFO  [Log] Element Clicked - search 
+2018-12-04 18:56:08,717 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-04 18:56:11,266 INFO  [Log] Element Clicked - View/Edit 
+2018-12-04 18:56:11,339 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-04 19:29:51,410 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-04 19:29:51,505 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-04 19:29:51,583 INFO  [Log] Element Clicked - search 
+2018-12-04 19:30:51,878 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-04 19:30:54,539 INFO  [Log] Element Clicked - View/Edit 
+2018-12-04 19:30:54,619 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-04 19:34:10,267 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-04 19:34:10,352 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-04 19:34:10,431 INFO  [Log] Element Clicked - search 
+2018-12-04 19:35:10,685 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-04 19:35:13,253 INFO  [Log] Element Clicked - View/Edit 
+2018-12-04 19:37:22,566 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-04 19:37:22,698 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-04 19:37:22,777 INFO  [Log] Element Clicked - search 
+2018-12-04 19:38:23,077 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-04 19:38:25,287 INFO  [Log] Element Clicked - View/Edit 
+2018-12-04 19:50:46,686 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-04 19:50:46,764 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-04 19:50:46,844 INFO  [Log] Element Clicked - search 
+2018-12-04 19:51:47,132 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-04 19:51:49,645 INFO  [Log] Element Clicked - View/Edit 
+2018-12-04 19:53:59,916 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-04 19:54:00,007 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-04 19:54:00,083 INFO  [Log] Element Clicked - search 
+2018-12-04 19:55:00,371 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-04 19:55:02,557 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 13:45:56,098 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 13:45:56,193 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 13:45:56,272 INFO  [Log] Element Clicked - search 
+2018-12-05 13:46:56,547 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@74a195a4 
+2018-12-05 13:46:56,616 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 13:48:32,893 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 13:48:32,978 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 13:48:33,070 INFO  [Log] Element Clicked - search 
+2018-12-05 13:49:33,268 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-05 13:49:35,641 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 13:51:56,128 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 13:51:56,212 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 13:51:56,291 INFO  [Log] Element Clicked - search 
+2018-12-05 13:52:56,465 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-05 13:52:58,606 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 13:55:59,748 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 13:55:59,835 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 13:55:59,916 INFO  [Log] Element Clicked - search 
+2018-12-05 13:57:00,104 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-05 13:57:02,496 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 13:58:02,948 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 13:58:03,036 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 13:58:03,111 INFO  [Log] Element Clicked - search 
+2018-12-05 13:59:03,288 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-05 13:59:05,395 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 14:00:55,596 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 14:00:55,683 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 14:00:55,762 INFO  [Log] Element Clicked - search 
+2018-12-05 14:01:55,948 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-05 14:01:58,353 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 14:12:50,880 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 14:12:50,969 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 14:12:51,044 INFO  [Log] Element Clicked - search 
+2018-12-05 14:13:51,228 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-05 14:13:53,342 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 14:14:52,403 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-05 14:14:52,486 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-05 14:14:52,565 INFO  [Log] Element Clicked - search 
+2018-12-05 14:15:52,751 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@5400db36 
+2018-12-05 14:15:54,865 INFO  [Log] Element Clicked - View/Edit 
+2018-12-05 14:15:54,944 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-05 14:15:55,227 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-05 14:15:55,301 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-05 14:15:55,393 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-05 14:15:55,787 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-10 13:17:54,979 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-10 13:17:55,079 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-10 13:17:55,166 INFO  [Log] Element Clicked - search 
+2018-12-10 13:18:55,587 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@2f19f2aa 
+2018-12-10 13:18:58,269 INFO  [Log] Element Clicked - View/Edit 
+2018-12-10 13:18:58,339 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-10 13:18:58,605 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-10 13:18:58,676 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-10 13:18:58,759 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-10 13:18:59,123 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 

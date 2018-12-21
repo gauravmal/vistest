@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <parameter name="password" value="123@wxyz"/>
+  <parameter name="browser" value="Chrome"/>
+  <parameter name="url" value="http://vis-qa2/vision/login.xhtml"/>
+  <parameter name="username" value="rajput"/>
+  <test thread-count="5" name="Driver Test(failed)">
+    <classes>
+      <class name="com.mal.scripts.Drivers">
+        <methods>
+          <include name="editDriver"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.mal.scripts.Drivers -->
+    </classes>
+  </test> <!-- Driver Test(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
