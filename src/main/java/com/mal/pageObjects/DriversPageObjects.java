@@ -15,6 +15,11 @@ public class DriversPageObjects
 	{
 		return WebElements.byId(driver,"driverName");
 	}
+	//Unit Number
+	public static WebElement txtUnitNo(WebDriver driver)
+	{
+		return WebElements.byId(driver,"unitNo");
+	}
 	//search button
 	public static WebElement btnSearch(WebDriver driver)
 	{
@@ -32,11 +37,16 @@ public class DriversPageObjects
 		return WebElements.byId(driver,"poolManager");
 	} 
 	//Title
-	public static void lstTitle(WebDriver driver,String testData)
+	public static WebElement lstTitle(WebDriver driver)
 	{
-		WebElements.byId(driver,"titleCode_label").click();
-		WebElements.byXpath(driver,".//*[@id='titleCode_panel']/div/ul/li[contains(text(),'"+testData+"')]").click();
+		return WebElements.byId(driver,"titleCode_label");
 	}
+	//Title list options
+	public static WebElement lstTitleOptions(WebDriver driver,String testData)
+	{
+		return WebElements.byXpath(driver,".//*[@id='titleCode_panel']/div/ul/li[contains(text(),'"+testData+"')]");
+	}
+	
 	//first name
 	public static WebElement txtFirstName(WebDriver driver)
 	{
@@ -54,11 +64,16 @@ public class DriversPageObjects
 	{
 		return WebElements.byId(driver,"driverSurname");
 	}
-	//Grade froup
-	public static void lstGrade(WebDriver driver,String testData)
+	
+	//Grade group
+	public static WebElement lstGrade(WebDriver driver)
 	{	
-		WebElements.byId(driver,"driverGradeGroupCodes_label").click();
-		WebElements.byXpath(driver,".//*[@id='driverGradeGroupCodes_panel']/div/ul/li[contains(text(),'"+testData+"')]").click();
+		return WebElements.byId(driver,"driverGradeGroupCodes_label");
+	}
+	//Grade group list options
+	public static WebElement lstGradeOptions(WebDriver driver,String testData)
+	{
+		return WebElements.byXpath(driver,".//*[@id='driverGradeGroupCodes_panel']/div/ul/li[contains(text(),'"+testData+"')]");
 	}
 	
 	//Email
@@ -67,10 +82,14 @@ public class DriversPageObjects
 		return WebElements.byId(driver,"email");
 	}
 	//Cost center
-	public static void lstCostCenter(WebDriver driver,String testData)
+	public static WebElement lstCostCenter(WebDriver driver)
 	{	
-		WebElements.byId(driver,"costCentreCode_label").click();
-		WebElements.byXpath(driver,".//*[@id='costCentreCode_panel']/div/ul/li[contains(text(),'"+testData+"')]").click();
+		return WebElements.byId(driver,"costCentreCode_label");
+	}
+	//Grade group list options
+	public static WebElement lstCcOptions(WebDriver driver,String testData)
+	{
+		return WebElements.byXpath(driver,".//*[@id='costCentreCode_panel']/div/ul/li[contains(text(),'"+testData+"')]");
 	}
 	//Add address
 	public static WebElement btnAdd(WebDriver driver)
@@ -78,10 +97,16 @@ public class DriversPageObjects
 		return WebElements.byId(driver,"driverAddressNumberPanel:addButton");
 	}
 	//address type
-	public static WebElement btnAddType(WebDriver driver)
+	public static WebElement lstAddType(WebDriver driver)
 	{
 		return WebElements.byId(driver,"addressForm:addressType_label");
 	}
+	//Address type option
+	public static WebElement lstAddTypeOption(WebDriver driver,String testData)
+	{
+		return WebElements.byXpath(driver,".//*[@id='addressForm:addressType_panel']/div/ul/li[contains(text(),'"+testData+"')]");
+	}
+	
 	//Business address checkbox
 	public static WebElement chkBusiness(WebDriver driver)
 	{
@@ -100,7 +125,7 @@ public class DriversPageObjects
 	//Address Line 2
 	public static WebElement txtAddressLine2(WebDriver driver)
 	{
-		return WebElements.byId(driver,"addressForm:dialogAddressLine1");
+		return WebElements.byId(driver,"addressForm:dialogAddressLine2");
 	}
 	//Postal Code
 	public static WebElement txtPostalCode(WebDriver driver)
@@ -109,12 +134,14 @@ public class DriversPageObjects
 	}
 	//Postal search button
 	public static WebElement btntPostalSearch(WebDriver driver)
-	{
-		return WebElements.byId(driver,"addressForm:dialogSearchButton");
+	{	
+		return WebElements.byXpath(driver,".//*[text()='Search']");
 	}
 	//Postal city
-	public static void lstCity(WebDriver driver)
-	{}
+	public static WebElement lstCity(WebDriver driver,String testData)
+	{
+		return WebElements.byXpath(driver,".//*[@id='addressForm:dialogCitySelector']/div[2]/ul/li[contains(text(),'"+testData+"')]");
+	}
 	//Done
 	public static WebElement btnDone(WebDriver driver)
 	{
@@ -128,7 +155,7 @@ public class DriversPageObjects
 	//Cell phon enumber radio button
 	public static WebElement rdCellPhNo(WebDriver driver)
 	{
-		return WebElements.byId(driver,"driverAddressNumberPanel:opt1");
+		return WebElements.byXpath(driver,".//*[@id='driverAddressNumberPanel:opt1']/div[2]/span");
 	}
 	//Cell  phone Area code
 	public static WebElement txtCellAreaCode(WebDriver driver)
@@ -148,7 +175,7 @@ public class DriversPageObjects
 	//Home phone radio button
 	public static WebElement rdHomePhNo(WebDriver driver)
 	{
-		return WebElements.byId(driver,"driverAddressNumberPanel:opt2");
+		return WebElements.byXpath(driver,".//*[@id='driverAddressNumberPanel:opt2']/div[2]/span");
 	}
 	//Home  phone Area code
 	public static WebElement txtHomeAreaCode(WebDriver driver)
@@ -168,7 +195,7 @@ public class DriversPageObjects
 	//Work phone
 	public static WebElement rdWorkPhNo(WebDriver driver)
 	{
-		return WebElements.byId(driver,"driverAddressNumberPanel:opt3");
+		return WebElements.byXpath(driver,".//*[@id='driverAddressNumberPanel:opt3']/div[2]/span");
 	}
 	//Work  phone Area code
 	public static WebElement txtWorkAreaCode(WebDriver driver)
@@ -185,17 +212,27 @@ public class DriversPageObjects
 	{
 		return WebElements.byId(driver,"driverAddressNumberPanel:j_idt115");
 	}
-	//recharge ind
-	public static WebElement txRechgInd(WebDriver driver)
+	//recharge Account
+	public static WebElement txRechgAcc(WebDriver driver)
 	{
 		return WebElements.byId(driver,"rechargeAccount");
+	}	
+	//Recharge Account LOV
+	public static WebElement lovRechgAcc(WebDriver driver)
+	{
+		return WebElements.byId(driver,"rechargeAccountLOV");
 	}
 	//Active Ind
-	public static void lstActiveInd(WebDriver driver,String testData)
+	public static WebElement lstActiveInd(WebDriver driver)
 	{
-		WebElements.byId(driver,"activeInd_label").click();
-		WebElements.byXpath(driver,".//*[@id='activeInd_panel']/div/ul/li[contains(text(),'"+testData+"')]").click();
+		return WebElements.byId(driver,"activeInd_label");
+	}	
+	//Active Indicator options
+	public static WebElement lstActIndOptions(WebDriver driver,String testData)
+	{
+		return WebElements.byXpath(driver,".//*[@id='activeInd_panel']/div[2]/ul/li[text(),'"+testData+"']");
 	}
+	
 	//Job Title
 	public static WebElement txtJobTile(WebDriver driver)
 	{
@@ -212,11 +249,16 @@ public class DriversPageObjects
 		return WebElements.byId(driver,"payrollNo");
 	}
 	//Manual Status
-	public static void lstManualStatus(WebDriver driver,String testData)
+	public static WebElement lstManualStatus(WebDriver driver)
 	{	
-		WebElements.byId(driver,"manualStatus_label").click();
-		WebElements.byXpath(driver,".//*[@id='manualStatus_panel']/div/ul/li[contains(text(),'"+testData+"')]").click();
+		return WebElements.byId(driver,"manualStatus_label");
 	}
+	//Manual status options
+	public static WebElement lstManualStatusOptions(WebDriver driver,String testData)
+	{	
+		return WebElements.byXpath(driver,".//*[@id='manualStatus_panel']/div[2]/ul/li[contains(text(),'"+testData+"')]");
+	}
+	
 	//Recharge Code
 	public static WebElement txtRecgCode(WebDriver driver)
 	{
@@ -236,5 +278,45 @@ public class DriversPageObjects
 	public static WebElement btnCancel(WebDriver driver)
 	{
 		return WebElements.byId(driver,"cancel");
+	}
+	//client number
+	public static WebElement txtClientNumber(WebDriver driver)
+	{
+		return WebElements.byId(driver,"customerAccount");		
+	}
+	//Deallocate/Allocate button
+	public static WebElement btnAllocate(WebDriver driver)
+	{
+		return WebElements.byId(driver,"reAllocate");
+	}
+	//New driver text box
+	public static WebElement txtNewDriver(WebDriver driver)
+	{
+		return WebElements.byId(driver,"driverName");
+	}	
+	//New driver LOV
+	public static WebElement lovNewDriver(WebDriver driver)
+	{
+		return WebElements.byId(driver,"driverNameLOV");
+	}	
+	//New driver select button
+	public static WebElement btnNewDriverSelect(WebDriver driver)
+	{
+		return WebElements.byId(driver,"drvLovDataTblForm:driverSelectButton");
+	}
+	//Odo meter reading text box
+	public static WebElement txtOdoReading(WebDriver driver)
+	{
+		return WebElements.byId(driver,"odoReading");
+	}
+	//Client LOV
+	public static WebElement lovClientAdd(WebDriver driver)
+	{
+		return WebElements.byId(driver,"customerAccountLOV");
+	}
+	//Select client button
+	public static WebElement btnClientSelect(WebDriver driver)
+	{
+		return WebElements.byId(driver,"custLovDataTblForm:customerSelectButton");
 	}
 }

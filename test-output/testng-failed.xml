@@ -7,14 +7,14 @@
   <parameter name="username" value="rajput"/>
   <test thread-count="5" name="Driver Test(failed)">
     <classes>
-      <class name="com.mal.scripts.Drivers">
+      <class name="com.mal.ScreenScripts.Drivers">
         <methods>
-          <include name="editDriver"/>
           <include name="afterMethod"/>
           <include name="beforeSuite"/>
+          <include name="addDriver"/>
           <include name="beforeTest"/>
         </methods>
-      </class> <!-- com.mal.scripts.Drivers -->
+      </class> <!-- com.mal.ScreenScripts.Drivers -->
     </classes>
   </test> <!-- Driver Test(failed) -->
 </suite> <!-- Failed suite [Regression Suite] -->

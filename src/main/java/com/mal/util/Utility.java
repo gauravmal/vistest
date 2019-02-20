@@ -1,9 +1,15 @@
 package com.mal.util;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.OutputType;
 import org.openqa.selenium.StaleElementReferenceException;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -44,5 +50,23 @@ public class Utility
 			webElement = false;
 		} 
 		return webElement;
+	}
+	
+	public static boolean isEnpty(String str)
+	{
+		if(str==null || str.isEmpty() || str.equalsIgnoreCase(""))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	
+	public static void takeScreenshot(WebDriver driver) throws IOException
+	{
+		File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		FileUtils.copyFile(file, new File("D:\\Automation\\Java-Automation\\vistest\\Results\\"+new Date().getTime()+".jpg"));		
 	}
 }

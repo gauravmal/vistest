@@ -31,4 +31,5 @@ public class WebElements
 		ele = driver.findElement(By.partialLinkText(link));
 		return ele;
 	}
+	
 }

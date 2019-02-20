@@ -112,3 +112,583 @@
 2018-12-10 13:18:58,676 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
 2018-12-10 13:18:58,759 INFO  [Log] Text entered in Text Box-Last Name Text-last 
 2018-12-10 13:18:59,123 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-24 12:54:15,845 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 12:54:15,940 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 12:54:16,027 INFO  [Log] Element Clicked - search 
+2018-12-24 12:55:16,345 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@640dc4c6 
+2018-12-24 12:55:19,398 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 12:55:21,509 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 12:55:21,590 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:32:55,819 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:32:55,904 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:32:55,983 INFO  [Log] Element Clicked - search 
+2018-12-24 17:33:56,304 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@42561fba 
+2018-12-24 17:33:59,753 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 17:34:02,826 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:34:02,908 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:34:02,983 INFO  [Log] Element Clicked - search 
+2018-12-24 17:35:03,246 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@7063686f 
+2018-12-24 17:35:05,538 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 17:35:08,738 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:35:08,825 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:35:08,904 INFO  [Log] Element Clicked - search 
+2018-12-24 17:36:09,121 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@6a6f6c7e 
+2018-12-24 17:36:11,372 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 17:41:22,982 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:41:23,071 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:41:23,153 INFO  [Log] Element Clicked - search 
+2018-12-24 17:43:39,728 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:43:39,817 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:43:39,897 INFO  [Log] Element Clicked - search 
+2018-12-24 17:44:40,188 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@1b1637e1 
+2018-12-24 17:44:42,638 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 17:46:41,689 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:46:41,777 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:46:41,860 INFO  [Log] Element Clicked - search 
+2018-12-24 17:47:42,160 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@1b1637e1 
+2018-12-24 17:47:44,635 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 17:47:47,752 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:47:47,841 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:47:47,916 INFO  [Log] Element Clicked - search 
+2018-12-24 17:48:48,221 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@3fbfbf84 
+2018-12-24 17:48:50,436 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 17:48:53,490 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:48:53,567 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:48:53,645 INFO  [Log] Element Clicked - search 
+2018-12-24 17:53:19,083 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 17:53:19,160 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 17:53:19,252 INFO  [Log] Element Clicked - search 
+2018-12-24 17:54:19,582 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@1b1637e1 
+2018-12-24 17:54:22,035 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 18:06:11,159 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 18:06:11,248 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 18:06:11,327 INFO  [Log] Element Clicked - search 
+2018-12-24 18:07:11,666 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@1b1637e1 
+2018-12-24 18:07:14,080 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 18:07:14,155 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-24 18:07:14,449 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-24 18:07:14,517 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-24 18:07:14,611 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-24 18:07:15,005 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-24 18:15:33,960 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 18:15:34,048 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 18:15:34,128 INFO  [Log] Element Clicked - search 
+2018-12-24 18:16:34,410 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@1b1637e1 
+2018-12-24 18:16:36,829 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 18:16:36,907 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-24 18:16:37,179 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-24 18:16:37,255 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-24 18:16:37,346 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-24 18:19:27,388 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 18:19:27,471 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 18:19:27,548 INFO  [Log] Element Clicked - search 
+2018-12-24 18:20:27,862 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@1b1637e1 
+2018-12-24 18:20:30,311 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 18:20:30,389 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-24 18:20:30,678 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-24 18:20:30,752 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-24 18:20:30,842 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-24 18:20:31,222 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-24 18:20:31,465 INFO  [Log] Element Clicked - Cell Phone Number 
+2018-12-24 18:20:31,534 INFO  [Log] Text entered in Text Box-Cell Phone Area Code Text-111 
+2018-12-24 18:20:31,616 INFO  [Log] Text entered in Text Box-Cell Number Text-1111111 
+2018-12-24 18:20:31,697 INFO  [Log] Text entered in Text Box-Cell Extension Text-111 
+2018-12-24 18:20:31,777 INFO  [Log] Element Clicked - Home Phone Number 
+2018-12-24 18:20:31,826 INFO  [Log] Text entered in Text Box-Home Phone Area Code Text-111 
+2018-12-24 18:20:31,876 INFO  [Log] Text entered in Text Box-Home Number Text-1111111 
+2018-12-24 18:20:31,930 INFO  [Log] Text entered in Text Box-Home Extension Text-111 
+2018-12-24 18:20:32,013 INFO  [Log] Element Clicked - Worke Phone Number 
+2018-12-24 18:20:32,128 INFO  [Log] Text entered in Text Box-Work Phone Area Code Text-111 
+2018-12-24 18:20:32,184 INFO  [Log] Text entered in Text Box-Work Number Text-1111111 
+2018-12-24 18:20:32,236 INFO  [Log] Text entered in Text Box-Work Extension Text-111 
+2018-12-24 18:20:32,340 INFO  [Log] Text entered in Text Box-Recharge Code Text-0000117 
+2018-12-24 18:20:32,591 INFO  [Log] Text entered in Text Box-Job Title Text-Title 
+2018-12-24 18:20:32,714 INFO  [Log] Text entered in Text Box-Department Text-Department 
+2018-12-24 18:20:32,797 INFO  [Log] Text entered in Text Box-Employee Ref No. Text-999 
+2018-12-24 18:20:33,053 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-24 18:20:35,335 INFO  [Log] Element Clicked - Save 
+2018-12-24 18:27:33,127 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 18:27:33,216 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 18:27:33,293 INFO  [Log] Element Clicked - search 
+2018-12-24 18:28:33,564 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@1b1637e1 
+2018-12-24 18:28:36,088 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 18:28:36,158 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-24 18:28:36,440 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-24 18:28:36,519 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-24 18:28:36,607 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-24 18:28:36,986 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-24 18:28:37,228 INFO  [Log] Element Clicked - Cell Phone Number 
+2018-12-24 18:28:37,300 INFO  [Log] Text entered in Text Box-Cell Phone Area Code Text-111 
+2018-12-24 18:28:37,381 INFO  [Log] Text entered in Text Box-Cell Number Text-1111111 
+2018-12-24 18:28:37,466 INFO  [Log] Text entered in Text Box-Cell Extension Text-111 
+2018-12-24 18:28:37,534 INFO  [Log] Element Clicked - Home Phone Number 
+2018-12-24 18:28:37,576 INFO  [Log] Text entered in Text Box-Home Phone Area Code Text-111 
+2018-12-24 18:28:37,627 INFO  [Log] Text entered in Text Box-Home Number Text-1111111 
+2018-12-24 18:28:37,681 INFO  [Log] Text entered in Text Box-Home Extension Text-111 
+2018-12-24 18:28:37,744 INFO  [Log] Element Clicked - Worke Phone Number 
+2018-12-24 18:28:37,787 INFO  [Log] Text entered in Text Box-Work Phone Area Code Text-111 
+2018-12-24 18:28:37,838 INFO  [Log] Text entered in Text Box-Work Number Text-1111111 
+2018-12-24 18:28:37,889 INFO  [Log] Text entered in Text Box-Work Extension Text-111 
+2018-12-24 18:28:37,991 INFO  [Log] Text entered in Text Box-Recharge Code Text-0000117 
+2018-12-24 18:28:38,246 INFO  [Log] Text entered in Text Box-Job Title Text-Title 
+2018-12-24 18:28:38,368 INFO  [Log] Text entered in Text Box-Department Text-Department 
+2018-12-24 18:28:38,450 INFO  [Log] Text entered in Text Box-Employee Ref No. Text-999 
+2018-12-24 18:28:38,717 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-24 18:28:42,393 INFO  [Log] Element Clicked - Save 
+2018-12-24 18:57:33,191 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 18:57:33,282 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 18:57:33,361 INFO  [Log] Element Clicked - search 
+2018-12-24 18:58:33,647 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@47547132 
+2018-12-24 18:58:36,319 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 19:03:00,891 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 19:03:00,979 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 19:03:01,057 INFO  [Log] Element Clicked - search 
+2018-12-24 19:04:01,355 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@3c1e23ff 
+2018-12-24 19:04:03,899 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 19:04:07,337 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 19:04:07,420 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 19:04:07,497 INFO  [Log] Element Clicked - search 
+2018-12-24 19:05:07,773 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@68f32020 
+2018-12-24 19:05:10,035 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 19:05:10,416 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-24 19:05:10,682 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-24 19:05:10,757 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-24 19:05:10,849 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-24 19:05:11,262 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-24 19:05:11,529 INFO  [Log] Element Clicked - Cell Phone Number 
+2018-12-24 19:05:11,599 INFO  [Log] Text entered in Text Box-Cell Phone Area Code Text-111 
+2018-12-24 19:05:11,687 INFO  [Log] Text entered in Text Box-Cell Number Text-1111111 
+2018-12-24 19:05:11,768 INFO  [Log] Text entered in Text Box-Cell Extension Text-111 
+2018-12-24 19:05:11,840 INFO  [Log] Element Clicked - Home Phone Number 
+2018-12-24 19:05:11,884 INFO  [Log] Text entered in Text Box-Home Phone Area Code Text-111 
+2018-12-24 19:05:11,951 INFO  [Log] Text entered in Text Box-Home Number Text-1111111 
+2018-12-24 19:05:12,008 INFO  [Log] Text entered in Text Box-Home Extension Text-111 
+2018-12-24 19:05:12,079 INFO  [Log] Element Clicked - Worke Phone Number 
+2018-12-24 19:05:12,128 INFO  [Log] Text entered in Text Box-Work Phone Area Code Text-111 
+2018-12-24 19:05:12,184 INFO  [Log] Text entered in Text Box-Work Number Text-1111111 
+2018-12-24 19:05:12,235 INFO  [Log] Text entered in Text Box-Work Extension Text-111 
+2018-12-24 19:05:12,344 INFO  [Log] Text entered in Text Box-Recharge Code Text-0000117 
+2018-12-24 19:05:12,594 INFO  [Log] Text entered in Text Box-Job Title Text-Title 
+2018-12-24 19:05:12,720 INFO  [Log] Text entered in Text Box-Department Text-Department 
+2018-12-24 19:05:12,800 INFO  [Log] Text entered in Text Box-Employee Ref No. Text-999 
+2018-12-24 19:05:13,059 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-24 19:05:15,406 INFO  [Log] Element Clicked - Save 
+2018-12-24 19:10:24,951 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 19:10:25,049 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 19:10:25,141 INFO  [Log] Element Clicked - search 
+2018-12-24 19:11:25,463 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@46b695ec 
+2018-12-24 19:11:27,955 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 19:11:31,217 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-24 19:11:31,309 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-24 19:11:31,392 INFO  [Log] Element Clicked - search 
+2018-12-24 19:12:31,656 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@15f8701f 
+2018-12-24 19:12:33,953 INFO  [Log] Element Clicked - View/Edit 
+2018-12-24 19:12:34,242 INFO  [Log] Element Clicked - Pool Manager 
+2018-12-24 19:12:34,493 INFO  [Log] Text entered in Text Box-First Name Text-G 
+2018-12-24 19:12:34,580 INFO  [Log] Text entered in Text Box-Middle Name Text-M 
+2018-12-24 19:12:34,662 INFO  [Log] Text entered in Text Box-Last Name Text-last 
+2018-12-24 19:12:34,935 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-24 19:12:35,205 INFO  [Log] Element Clicked - Cell Phone Number 
+2018-12-24 19:12:35,294 INFO  [Log] Text entered in Text Box-Cell Phone Area Code Text-111 
+2018-12-24 19:12:35,390 INFO  [Log] Text entered in Text Box-Cell Number Text-1111111 
+2018-12-24 19:12:35,481 INFO  [Log] Text entered in Text Box-Cell Extension Text-111 
+2018-12-24 19:12:35,550 INFO  [Log] Element Clicked - Home Phone Number 
+2018-12-24 19:12:35,608 INFO  [Log] Text entered in Text Box-Home Phone Area Code Text-111 
+2018-12-24 19:12:35,679 INFO  [Log] Text entered in Text Box-Home Number Text-1111111 
+2018-12-24 19:12:35,737 INFO  [Log] Text entered in Text Box-Home Extension Text-111 
+2018-12-24 19:12:35,805 INFO  [Log] Element Clicked - Worke Phone Number 
+2018-12-24 19:12:35,863 INFO  [Log] Text entered in Text Box-Work Phone Area Code Text-111 
+2018-12-24 19:12:35,930 INFO  [Log] Text entered in Text Box-Work Number Text-1111111 
+2018-12-24 19:12:35,992 INFO  [Log] Text entered in Text Box-Work Extension Text-111 
+2018-12-24 19:12:36,082 INFO  [Log] Text entered in Text Box-Recharge Code Text-0000117 
+2018-12-24 19:12:36,326 INFO  [Log] Text entered in Text Box-Job Title Text-Title 
+2018-12-24 19:12:36,420 INFO  [Log] Text entered in Text Box-Department Text-Department 
+2018-12-24 19:12:36,509 INFO  [Log] Text entered in Text Box-Employee Ref No. Text-999 
+2018-12-24 19:12:36,747 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-24 19:12:40,500 INFO  [Log] Element Clicked - Save 
+2018-12-26 19:47:40,024 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-26 19:47:40,117 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-26 19:47:40,193 INFO  [Log] Element Clicked - search 
+2018-12-26 19:48:40,550 ERROR [Log] Class name-Utility || Method name-waitForElementToBeClickable || Error-[Ljava.lang.StackTraceElement;@26d820eb 
+2018-12-26 19:48:43,877 INFO  [Log] Element Clicked - View/Edit 
+2018-12-26 19:50:20,099 INFO  [Log] Element Clicked - Search Drivers 
+2018-12-26 19:50:20,216 INFO  [Log] Text entered in Text Box-Driver Name Text-abati 
+2018-12-26 19:50:20,295 INFO  [Log] Element Clicked - search 
+2018-12-26 19:53:06,569 INFO  [Log] Element Clicked - Add Driver 
+2018-12-26 19:53:06,704 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-26 19:53:07,022 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-26 19:53:07,152 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-26 19:53:07,264 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-26 20:02:28,130 INFO  [Log] Element Clicked - Add Driver 
+2018-12-26 20:02:28,299 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-26 20:02:28,663 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-26 20:02:28,794 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-26 20:02:28,917 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-26 20:08:16,167 INFO  [Log] Element Clicked - Add Driver 
+2018-12-26 20:08:16,333 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-26 20:08:16,417 INFO  [Log] Element Clicked - Client LOV 
+2018-12-26 20:08:17,303 INFO  [Log] Element Clicked - Select 
+2018-12-26 20:31:58,190 INFO  [Log] Element Clicked - Add Driver 
+2018-12-26 20:31:58,343 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-26 20:31:58,418 INFO  [Log] Element Clicked - Client LOV 
+2018-12-26 20:31:59,302 INFO  [Log] Element Clicked - Select 
+2018-12-26 20:34:03,544 INFO  [Log] Element Clicked - Add Driver 
+2018-12-26 20:34:03,693 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-26 20:34:03,770 INFO  [Log] Element Clicked - Client LOV 
+2018-12-26 20:34:04,757 INFO  [Log] Element Clicked - Select 
+2018-12-26 20:34:04,806 INFO  [Log] Element is clickable 
+2018-12-26 20:35:36,287 INFO  [Log] Element Clicked - Add Driver 
+2018-12-26 20:35:36,428 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-26 20:35:36,508 INFO  [Log] Element Clicked - Client LOV 
+2018-12-26 20:35:37,411 INFO  [Log] Element Clicked - Select 
+2018-12-26 20:35:42,748 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-26 20:35:42,874 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-26 20:35:42,985 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-26 20:35:43,406 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-26 20:35:43,675 INFO  [Log] Element Clicked - Cell Phone Number 
+2018-12-26 20:35:43,763 INFO  [Log] Text entered in Text Box-Cell Phone Area Code Text-111 
+2018-12-26 20:35:43,863 INFO  [Log] Text entered in Text Box-Cell Number Text-1111111 
+2018-12-26 20:35:43,973 INFO  [Log] Text entered in Text Box-Cell Extension Text-111 
+2018-12-26 20:35:44,047 INFO  [Log] Element Clicked - Home Phone Number 
+2018-12-26 20:35:44,106 INFO  [Log] Text entered in Text Box-Home Phone Area Code Text-111 
+2018-12-26 20:35:44,181 INFO  [Log] Text entered in Text Box-Home Number Text-1111111 
+2018-12-26 20:35:44,263 INFO  [Log] Text entered in Text Box-Home Extension Text-111 
+2018-12-26 20:35:44,335 INFO  [Log] Element Clicked - Worke Phone Number 
+2018-12-26 20:35:44,396 INFO  [Log] Text entered in Text Box-Work Phone Area Code Text-111 
+2018-12-26 20:35:44,467 INFO  [Log] Text entered in Text Box-Work Number Text-1111111 
+2018-12-26 20:35:44,541 INFO  [Log] Text entered in Text Box-Work Extension Text-111 
+2018-12-26 20:35:44,674 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-26 20:35:44,947 INFO  [Log] Text entered in Text Box-Job Title Text-Title 
+2018-12-26 20:35:45,096 INFO  [Log] Text entered in Text Box-Department Text-Department 
+2018-12-26 20:35:45,199 INFO  [Log] Text entered in Text Box-Employee Ref No. Text-999 
+2018-12-26 20:35:45,466 INFO  [Log] Text entered in Text Box-Recharge Code Text-0000117 
+2018-12-26 20:35:47,812 INFO  [Log] Element Clicked - Save 
+2018-12-26 20:51:55,957 INFO  [Log] Element Clicked - Add Driver 
+2018-12-26 20:51:56,100 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-26 20:51:56,175 INFO  [Log] Element Clicked - Client LOV 
+2018-12-26 20:51:57,056 INFO  [Log] Element Clicked - Select 
+2018-12-26 20:52:02,362 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-26 20:52:02,486 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-26 20:52:02,590 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-26 20:52:02,938 INFO  [Log] Text entered in Text Box-Email Text-Address Line 1 
+2018-12-27 12:38:09,645 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 12:38:09,785 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 12:38:09,861 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 12:38:12,038 INFO  [Log] Element Clicked - Select 
+2018-12-27 12:38:17,344 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 12:38:17,468 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 12:38:17,582 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 12:38:17,910 INFO  [Log] Text entered in Text Box-Email Text-Address Line 1 
+2018-12-27 17:37:16,031 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 17:37:16,178 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 17:37:16,254 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 17:37:17,214 INFO  [Log] Element Clicked - Select 
+2018-12-27 17:37:22,326 INFO  [Log] Element Clicked - Title 
+2018-12-27 18:51:16,714 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 18:51:16,854 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 18:51:16,931 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 18:51:18,043 INFO  [Log] Element Clicked - Select 
+2018-12-27 18:54:27,537 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 18:54:27,691 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 18:54:27,771 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 18:54:28,683 INFO  [Log] Element Clicked - Select 
+2018-12-27 18:57:13,541 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 18:57:13,698 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 18:57:13,773 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 18:57:14,670 INFO  [Log] Element Clicked - Select 
+2018-12-27 18:57:19,986 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 18:57:20,116 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 18:57:20,227 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:03:37,864 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:03:38,001 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:03:38,079 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:03:39,031 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:03:44,343 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:03:44,465 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:03:44,580 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:03:45,021 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:03:45,281 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:03:45,918 INFO  [Log] Element Clicked - Address Line 1 
+2018-12-27 19:03:45,975 INFO  [Log] Element Clicked - Address Line 2 
+2018-12-27 19:03:46,044 INFO  [Log] Element Clicked - 43204 
+2018-12-27 19:06:46,076 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:06:46,220 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:06:46,299 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:06:47,201 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:06:52,512 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:06:52,640 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:06:52,756 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:06:53,177 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:06:53,444 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:06:54,144 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:06:54,251 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:06:54,356 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:08:41,419 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:08:41,568 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:08:41,647 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:08:42,585 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:08:47,881 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:08:48,011 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:08:48,134 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:08:48,557 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:08:48,817 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:08:49,490 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:08:49,627 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:08:49,732 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:11:03,222 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:11:03,364 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:11:03,442 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:11:04,316 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:11:09,619 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:11:09,746 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:11:09,858 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:11:10,280 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:11:10,552 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:11:11,212 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:11:11,346 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:11:11,450 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:18:38,828 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:18:38,972 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:18:39,057 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:18:40,002 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:18:45,288 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:18:45,414 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:18:45,526 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:18:45,958 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:18:46,223 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:18:47,094 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:18:47,232 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:18:47,334 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:18:48,276 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:18:48,348 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:22:59,000 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:22:59,157 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:22:59,233 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:23:00,143 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:23:05,453 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:23:05,579 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:23:05,691 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:23:06,090 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:23:06,387 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:23:07,244 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:23:07,365 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:23:07,461 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:23:08,394 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:23:08,473 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:28:59,714 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:28:59,858 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:28:59,937 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:29:00,824 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:29:06,136 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:29:06,264 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:29:06,378 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:29:06,803 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:29:07,061 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:29:07,914 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:29:08,039 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:29:08,139 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:29:09,035 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:29:09,130 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:38:47,915 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:38:48,064 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:38:48,146 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:38:49,046 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:38:54,389 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:38:54,515 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:38:54,631 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:38:55,051 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:38:55,320 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:38:56,152 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:38:56,282 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:38:56,384 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:38:56,458 INFO  [Log] Element Clicked - Search 
+2018-12-27 19:38:57,394 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:38:57,466 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:38:57,562 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-27 19:44:35,406 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:44:35,549 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:44:35,631 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:44:36,588 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:44:41,911 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:44:42,036 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:44:42,153 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:44:42,584 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:44:42,854 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:44:43,695 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:44:43,819 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:44:43,916 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:44:43,987 INFO  [Log] Element Clicked - Search 
+2018-12-27 19:44:44,930 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:44:45,000 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:44:45,090 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-27 19:46:03,314 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:46:03,461 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:46:03,540 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:46:04,610 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:46:09,926 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:46:10,051 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:46:10,165 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:46:10,587 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:46:10,845 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:46:11,679 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:46:11,804 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:46:11,899 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:46:11,971 INFO  [Log] Element Clicked - Search 
+2018-12-27 19:46:12,755 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:46:12,826 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:46:12,925 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-27 19:47:27,219 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:47:27,367 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:47:27,457 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:47:28,415 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:47:33,739 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:47:33,868 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:47:33,978 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:47:34,400 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:47:34,670 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:47:35,499 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:47:35,620 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:47:35,720 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:47:35,797 INFO  [Log] Element Clicked - Search 
+2018-12-27 19:47:36,561 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:47:36,651 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:47:36,748 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-27 19:47:36,837 INFO  [Log] Text entered in Text Box-Job Title Text-Title 
+2018-12-27 19:47:36,949 INFO  [Log] Text entered in Text Box-Department Text-Department 
+2018-12-27 19:47:37,034 INFO  [Log] Text entered in Text Box-Employee Ref No. Text-999 
+2018-12-27 19:50:13,635 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:50:13,789 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:50:13,870 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:50:14,811 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:50:20,106 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:50:20,233 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:50:20,344 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:50:20,755 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:50:21,039 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:50:21,871 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:50:22,006 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:50:22,102 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:50:22,188 INFO  [Log] Element Clicked - Search 
+2018-12-27 19:50:23,008 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:50:23,081 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:50:23,184 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-27 19:52:23,814 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:52:23,960 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:52:24,042 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:52:24,928 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:52:30,271 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:52:30,399 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:52:30,511 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:52:30,922 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:52:31,194 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:52:32,050 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:52:32,186 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:52:32,284 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:52:32,357 INFO  [Log] Element Clicked - Search 
+2018-12-27 19:52:33,139 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:52:33,217 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:52:33,315 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-27 19:58:14,318 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 19:58:14,468 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 19:58:14,550 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 19:58:15,446 INFO  [Log] Element Clicked - Select 
+2018-12-27 19:58:20,756 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 19:58:20,882 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 19:58:20,998 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 19:58:21,416 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 19:58:21,675 INFO  [Log] Element Clicked - Add 
+2018-12-27 19:58:22,526 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 19:58:22,671 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 19:58:22,781 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 19:58:22,856 INFO  [Log] Element Clicked - Search 
+2018-12-27 19:58:23,654 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 19:58:23,727 INFO  [Log] Element Clicked - Done 
+2018-12-27 19:58:23,827 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000117 
+2018-12-27 20:00:22,427 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 20:00:22,574 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 20:00:22,655 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 20:00:23,591 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:00:28,919 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 20:00:29,047 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 20:00:29,163 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 20:00:29,582 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 20:00:29,845 INFO  [Log] Element Clicked - Add 
+2018-12-27 20:00:30,683 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 20:00:30,806 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 20:00:30,909 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 20:00:30,982 INFO  [Log] Element Clicked - Search 
+2018-12-27 20:00:31,782 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 20:00:31,854 INFO  [Log] Element Clicked - Done 
+2018-12-27 20:00:31,950 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000017 
+2018-12-27 20:01:10,273 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 20:01:10,417 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 20:01:10,498 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 20:01:11,404 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:01:16,721 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 20:01:16,847 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 20:01:16,962 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 20:01:17,391 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 20:01:17,661 INFO  [Log] Element Clicked - Add 
+2018-12-27 20:01:18,497 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 20:01:18,624 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 20:01:18,724 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 20:01:18,803 INFO  [Log] Element Clicked - Search 
+2018-12-27 20:01:19,599 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 20:01:19,688 INFO  [Log] Element Clicked - Done 
+2018-12-27 20:01:24,828 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000017 
+2018-12-27 20:01:24,900 INFO  [Log] Element Clicked - Recharge Client LOV 
+2018-12-27 20:01:25,719 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:07:36,850 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 20:07:36,996 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 20:07:37,076 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 20:07:37,987 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:07:43,292 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 20:07:43,419 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 20:07:43,534 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 20:07:43,974 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 20:07:44,253 INFO  [Log] Element Clicked - Add 
+2018-12-27 20:07:45,096 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 20:07:45,234 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 20:07:45,325 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 20:07:45,400 INFO  [Log] Element Clicked - Search 
+2018-12-27 20:07:46,183 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 20:07:46,256 INFO  [Log] Element Clicked - Done 
+2018-12-27 20:07:50,398 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000017 
+2018-12-27 20:07:50,468 INFO  [Log] Element Clicked - Recharge Client LOV 
+2018-12-27 20:07:51,235 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:21:08,911 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 20:21:09,059 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 20:21:09,138 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 20:21:10,071 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:21:15,368 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 20:21:15,495 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 20:21:15,609 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 20:21:16,044 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 20:21:16,302 INFO  [Log] Element Clicked - Add 
+2018-12-27 20:21:17,136 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 20:21:17,258 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 20:21:17,353 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 20:21:17,430 INFO  [Log] Element Clicked - Search 
+2018-12-27 20:21:18,216 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 20:21:18,290 INFO  [Log] Element Clicked - Done 
+2018-12-27 20:21:22,450 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000017 
+2018-12-27 20:21:22,520 INFO  [Log] Element Clicked - Recharge Client LOV 
+2018-12-27 20:21:23,299 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:22:19,190 INFO  [Log] Element Clicked - Add Driver 
+2018-12-27 20:22:19,335 INFO  [Log] Text entered in Text Box-Client Text-00000117 
+2018-12-27 20:22:19,415 INFO  [Log] Element Clicked - Client LOV 
+2018-12-27 20:22:20,299 INFO  [Log] Element Clicked - Select 
+2018-12-27 20:22:25,613 INFO  [Log] Text entered in Text Box-First Name Text-First 
+2018-12-27 20:22:25,744 INFO  [Log] Text entered in Text Box-Middle Name Text-Middle 
+2018-12-27 20:22:25,858 INFO  [Log] Text entered in Text Box-Last Name Text-Last 
+2018-12-27 20:22:26,272 INFO  [Log] Text entered in Text Box-Email Text-gaurav.rajput@mikealbert.com 
+2018-12-27 20:22:26,528 INFO  [Log] Element Clicked - Add 
+2018-12-27 20:22:27,379 INFO  [Log] Text entered in Text Box-Address Line1 Text-Address Line 1 
+2018-12-27 20:22:27,508 INFO  [Log] Text entered in Text Box-Address Line2 Text-Address Line 2 
+2018-12-27 20:22:27,607 INFO  [Log] Text entered in Text Box-Postal Code Text-43204 
+2018-12-27 20:22:27,685 INFO  [Log] Element Clicked - Search 
+2018-12-27 20:22:28,492 INFO  [Log] Element Clicked - Columbus 
+2018-12-27 20:22:28,562 INFO  [Log] Element Clicked - Done 
+2018-12-27 20:22:32,735 INFO  [Log] Text entered in Text Box-Recharge Code Text-00000017 
+2018-12-27 20:22:32,806 INFO  [Log] Element Clicked - Recharge Client LOV 
+2018-12-27 20:22:33,573 INFO  [Log] Element Clicked - Select 
