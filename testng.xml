@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Regression Suite">
+<suite name="Regression Suite" verbose="5">
       <parameter name="browser" value="Chrome" />
       <parameter name="username" value="rajput" />
       <parameter name="password" value="123@wxyz" />
+      <parameter name="environemnt" value="QA2"
       <parameter name="url" value="http://vis-qa2/vision/login.xhtml" />
   <test name="Driver Test">      
     <classes>
-      <class name="com.mal.scripts.Drivers"/>
+      <class name="com.mal.ScreenScripts.Drivers">          
+      	<methods>  
+          <include name="addDriver"></include>
+      	</methods>
+      </class>      
     </classes>
   </test>
 </suite>
